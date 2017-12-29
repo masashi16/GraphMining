@@ -1,0 +1,3 @@
+使い方
+
+$ python node2vec/main.py --input data/opsahl-usairport/out.opsahl-usairport --output emb/airport.emb --weighted --directed
